@@ -1,0 +1,25 @@
+--cpu Cortex-M0
+"test_loadcells_drilling\startup_stm32f072xb.o"
+"test_loadcells_drilling\main.o"
+"test_loadcells_drilling\stm32f0xx_it.o"
+"test_loadcells_drilling\stm32f0xx_hal_msp.o"
+"test_loadcells_drilling\stm32f0xx_hal_tim.o"
+"test_loadcells_drilling\stm32f0xx_hal_tim_ex.o"
+"test_loadcells_drilling\stm32f0xx_hal_rcc.o"
+"test_loadcells_drilling\stm32f0xx_hal_rcc_ex.o"
+"test_loadcells_drilling\stm32f0xx_hal.o"
+"test_loadcells_drilling\stm32f0xx_hal_i2c.o"
+"test_loadcells_drilling\stm32f0xx_hal_i2c_ex.o"
+"test_loadcells_drilling\stm32f0xx_hal_gpio.o"
+"test_loadcells_drilling\stm32f0xx_hal_dma.o"
+"test_loadcells_drilling\stm32f0xx_hal_cortex.o"
+"test_loadcells_drilling\stm32f0xx_hal_pwr.o"
+"test_loadcells_drilling\stm32f0xx_hal_pwr_ex.o"
+"test_loadcells_drilling\stm32f0xx_hal_flash.o"
+"test_loadcells_drilling\stm32f0xx_hal_flash_ex.o"
+"test_loadcells_drilling\stm32f0xx_hal_exti.o"
+"test_loadcells_drilling\system_stm32f0xx.o"
+--strict --scatter "Test_LoadCells_Drilling\Test_LoadCells_Drilling.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Test_LoadCells_Drilling.map" -o Test_LoadCells_Drilling\Test_LoadCells_Drilling.axf

@@ -1,0 +1,9 @@
+../Core/Src/Adafruit_BNO055.c:22:6:Adafruit_BNO055_Init	24	static
+../Core/Src/Adafruit_BNO055.c:29:6:Adafruit_BNO055_Begin	40	static
+../Core/Src/Adafruit_BNO055.c:60:6:Adafruit_BNO055_SetMode	32	static
+../Core/Src/Adafruit_BNO055.c:67:8:Adafruit_BNO055_GetTemp	32	static
+../Core/Src/Adafruit_BNO055.c:74:6:Adafruit_BNO055_SetExtCrystalUse	40	static
+../Core/Src/Adafruit_BNO055.c:101:6:Adafruit_BNO055_GetCalibration	48	static
+../Core/Src/Adafruit_BNO055.c:124:6:Adafruit_BNO055_GetQuat	56	static
+../Core/Src/Adafruit_BNO055.c:153:6:Adafruit_BNO055_GetVector	56	static
+../Core/Src/Adafruit_BNO055.c:214:6:Adafruit_BNO055_UpdateEuler	56	static

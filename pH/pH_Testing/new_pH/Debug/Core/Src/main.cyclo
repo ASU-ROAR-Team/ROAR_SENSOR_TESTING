@@ -1,0 +1,7 @@
+../Core/Src/main.c:70:5:compare_uint32	3
+../Core/Src/main.c:83:5:main	4
+../Core/Src/main.c:171:6:SystemClock_Config	4
+../Core/Src/main.c:215:13:MX_ADC1_Init	3
+../Core/Src/main.c:262:13:MX_I2C1_Init	2
+../Core/Src/main.c:296:13:MX_GPIO_Init	1
+../Core/Src/main.c:317:6:Error_Handler	1

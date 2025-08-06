@@ -1,0 +1,6 @@
+../Adafruit_BNO055/bno055_stm32.h:20:6:bno055_assignI2C	16	static
+../Adafruit_BNO055/bno055_stm32.h:24:6:bno055_delay	16	static
+../Adafruit_BNO055/bno055_stm32.h:32:6:bno055_writeData	48	static
+../Adafruit_BNO055/bno055_stm32.h:92:6:bno055_readData	24	static
+../Adafruit_BNO055/IMU.c:10:6:IMU_Setup	16	static
+../Adafruit_BNO055/IMU.c:20:6:IMU_Operation	248	static
