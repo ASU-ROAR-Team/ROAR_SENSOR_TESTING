@@ -1,4 +1,4 @@
-# Normalize line endings
+
 * text=auto
 
 # C/C++ source files use LF
@@ -10,5 +10,5 @@
 *.ioc text eol=lf
 
 # Keil/IAR project files use CRLF
-*.uvprojx text eol=crlf
-*.uvoptx text eol=crlf
+*.uvprojx text eol=lf
+*.uvoptx text eol=lf
