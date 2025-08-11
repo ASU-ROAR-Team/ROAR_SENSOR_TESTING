@@ -1,0 +1,7 @@
+../Core/Src/main.c:62:6:can_irq	2
+../Core/Src/main.c:69:19:can_send	2
+../Core/Src/main.c:92:5:main	3
+../Core/Src/main.c:157:6:SystemClock_Config	3
+../Core/Src/main.c:193:13:MX_CAN_Init	6
+../Core/Src/main.c:258:13:MX_GPIO_Init	1
+../Core/Src/main.c:291:6:Error_Handler	1
