@@ -1,0 +1,2 @@
+../PID/pid_controller.c:14:6:PID_Init	24	static
+../PID/pid_controller.c:26:7:PID_Compute	64	static

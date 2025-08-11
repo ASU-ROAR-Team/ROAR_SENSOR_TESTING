@@ -1,0 +1,9 @@
+../Core/Src/main.c:89:6:microDelay	16	static
+../Core/Src/main.c:100:6:Read_HX711_Raw	24	static
+../Core/Src/main.c:140:6:HX711_Tare	24	static
+../Core/Src/main.c:160:6:HX711_Manager	24	static
+../Core/Src/main.c:232:5:main	8	static,ignoring_inline_asm
+../Core/Src/main.c:290:6:SystemClock_Config	88	static
+../Core/Src/main.c:325:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:370:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:421:6:Error_Handler	8	static,ignoring_inline_asm
