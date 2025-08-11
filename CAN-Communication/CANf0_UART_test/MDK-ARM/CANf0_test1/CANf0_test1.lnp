@@ -1,0 +1,26 @@
+--cpu Cortex-M0
+"canf0_test1\startup_stm32f072xb.o"
+"canf0_test1\main.o"
+"canf0_test1\stm32f0xx_it.o"
+"canf0_test1\stm32f0xx_hal_msp.o"
+"canf0_test1\stm32f0xx_hal_can.o"
+"canf0_test1\stm32f0xx_hal_rcc.o"
+"canf0_test1\stm32f0xx_hal_rcc_ex.o"
+"canf0_test1\stm32f0xx_hal.o"
+"canf0_test1\stm32f0xx_hal_i2c.o"
+"canf0_test1\stm32f0xx_hal_i2c_ex.o"
+"canf0_test1\stm32f0xx_hal_gpio.o"
+"canf0_test1\stm32f0xx_hal_dma.o"
+"canf0_test1\stm32f0xx_hal_cortex.o"
+"canf0_test1\stm32f0xx_hal_pwr.o"
+"canf0_test1\stm32f0xx_hal_pwr_ex.o"
+"canf0_test1\stm32f0xx_hal_flash.o"
+"canf0_test1\stm32f0xx_hal_flash_ex.o"
+"canf0_test1\stm32f0xx_hal_exti.o"
+"canf0_test1\stm32f0xx_hal_uart.o"
+"canf0_test1\stm32f0xx_hal_uart_ex.o"
+"canf0_test1\system_stm32f0xx.o"
+--strict --scatter "CANf0_test1\CANf0_test1.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "CANf0_test1.map" -o CANf0_test1\CANf0_test1.axf
