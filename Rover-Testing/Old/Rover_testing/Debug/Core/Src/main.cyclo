@@ -1,0 +1,10 @@
+../Core/Src/main.c:161:6:HAL_CAN_RxFifo1MsgPendingCallback	1
+../Core/Src/main.c:178:5:main	1
+../Core/Src/main.c:407:6:SystemClock_Config	3
+../Core/Src/main.c:447:13:MX_CAN_Init	2
+../Core/Src/main.c:484:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:517:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:550:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:581:13:MX_DMA_Init	1
+../Core/Src/main.c:614:13:MX_GPIO_Init	1
+../Core/Src/main.c:638:6:Error_Handler	1
