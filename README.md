@@ -35,4 +35,4 @@ ROAR_SENSOR_TESTING/
 
 ## System integration
 
-![alt text](image.png)
+![alt text](Docs/system_integration.png)
