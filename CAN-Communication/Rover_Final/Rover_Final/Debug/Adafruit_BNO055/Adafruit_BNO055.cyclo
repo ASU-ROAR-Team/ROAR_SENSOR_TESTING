@@ -1,0 +1,9 @@
+../Adafruit_BNO055/Adafruit_BNO055.c:22:6:Adafruit_BNO055_Init	1
+../Adafruit_BNO055/Adafruit_BNO055.c:29:6:Adafruit_BNO055_Begin	4
+../Adafruit_BNO055/Adafruit_BNO055.c:60:6:Adafruit_BNO055_SetMode	1
+../Adafruit_BNO055/Adafruit_BNO055.c:67:8:Adafruit_BNO055_GetTemp	1
+../Adafruit_BNO055/Adafruit_BNO055.c:74:6:Adafruit_BNO055_SetExtCrystalUse	2
+../Adafruit_BNO055/Adafruit_BNO055.c:101:6:Adafruit_BNO055_GetCalibration	5
+../Adafruit_BNO055/Adafruit_BNO055.c:124:6:Adafruit_BNO055_GetQuat	1
+../Adafruit_BNO055/Adafruit_BNO055.c:153:6:Adafruit_BNO055_GetVector	8
+../Adafruit_BNO055/Adafruit_BNO055.c:214:6:Adafruit_BNO055_UpdateEuler	3

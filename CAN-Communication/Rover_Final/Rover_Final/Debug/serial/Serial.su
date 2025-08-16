@@ -1,0 +1,7 @@
+../serial/Serial.c:77:23:serial_init	24	static
+../serial/Serial.c:134:6:serial_write	24	static
+../serial/Serial.c:147:9:serial_available	16	static
+../serial/Serial.c:152:9:serial_read	16	static
+../serial/Serial.c:162:6:HAL_UART_TxCpltCallback	24	static
+../serial/Serial.c:175:6:HAL_UART_RxCpltCallback	24	static
+../serial/Serial.c:185:6:HAL_UART_ErrorCallback	24	static
