@@ -73,8 +73,8 @@ void Motor_StopControl(void); // Function to explicitly stop PID and motor
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define MOTOR_IN1_Pin GPIO_PIN_5
-#define MOTOR_IN1_GPIO_Port GPIOA
+//#define MOTOR_IN1_Pin GPIO_PIN_5
+//#define MOTOR_IN1_GPIO_Port GPIOA
 #define ENCODER_A_Pin GPIO_PIN_6
 #define ENCODER_A_GPIO_Port GPIOB
 #define ENCODER_A_EXTI_IRQn EXTI4_15_IRQn
