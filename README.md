@@ -35,4 +35,10 @@ ROAR_SENSOR_TESTING/
 
 ## System integration
 
+### system plan
+
 ![alt text](Docs/system_integration.png)
+
+### final system
+
+![alt text](Docs/Picture1.jpg)
