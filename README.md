@@ -41,4 +41,4 @@ ROAR_SENSOR_TESTING/
 
 ### final system
 
-![alt text](Docs/Picture1.jpg)
+![alt text](Docs/Picture1.png)
