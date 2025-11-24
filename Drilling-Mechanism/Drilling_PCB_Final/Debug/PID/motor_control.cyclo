@@ -1,0 +1,3 @@
+../PID/motor_control.c:54:6:Motor_SetPWM	1
+../PID/motor_control.c:63:6:Motor_SetDirection	3
+../PID/motor_control.c:79:6:Motor_SetManualPWM	1

@@ -1,0 +1,8 @@
+../Loadcell/loadcell.c:9:6:LoadCell_Init	1
+../Loadcell/loadcell.c:27:6:LoadCell_Tare	3
+../Loadcell/loadcell.c:40:6:LoadCell_Calibrate	3
+../Loadcell/loadcell.c:52:6:LoadCell_Manager	9
+../Loadcell/loadcell.c:94:6:LoadCell_GetWeight	2
+../Loadcell/loadcell.c:101:13:_micro_delay	2
+../Loadcell/loadcell.c:106:13:_is_ready	1
+../Loadcell/loadcell.c:110:13:_read_raw_blocking	5

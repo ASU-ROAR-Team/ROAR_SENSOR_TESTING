@@ -1,0 +1,2 @@
+../Servo/servo.c:25:10:angleToPulseValue	24	static
+../Servo/servo.c:45:6:setServoAngle	40	static
